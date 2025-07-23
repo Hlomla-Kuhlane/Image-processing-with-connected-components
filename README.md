@@ -1,5 +1,4 @@
-# Image-processing-with-connected-components
-This  implements a PGM  image processor that can identify and analyze connected components in grayscale images. The processor can threshold images, find connected components, filter them by size, and output the results.
+This File contains Assingment  implements a PGM  image processor that can identify and analyze connected components in grayscale images. The processor can threshold images, find connected components, filter them by size, and output the results.
 
 Components
 1. PGMimage Class
